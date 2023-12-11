@@ -18,7 +18,7 @@ include ':app'
 /*
 
 
-// Top-level re  build file where you can add configuration options common to all sub-projects/modules.
+// Top -level re  build file where you can add configuration options common to all sub-projects/modules.
 buildscript {
     ext.kotlin_version = "1.8.0"
     repositories {
